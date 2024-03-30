@@ -102,7 +102,7 @@ const app = {
 	{
       name: "RISEN",
       singer: "Saddleback Worship",
-      path: "assets/music/Risen-EasterAtSaddleback(2021)",
+      path: "assets/music/Risen-EasterAtSaddleback(2021).mp3",
       image: "assets/img/SaddlebackWorship.jpg",
     },
 		{

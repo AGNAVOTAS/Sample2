@@ -63,7 +63,13 @@ const app = {
       path: "assets/music/Forever-KariJobe(Live).mp3",
       image: "assets/img/karijobe.jpg",
     },
-		    {
+	{
+      name: "LILIM",
+      singer: "Ryssi",
+      path: "assets/music/Lilim.mp3",
+      image: "assets/img/lilim.jpg",
+    },
+	{
       name: "LILIM",
       singer: "Victory Worship",
       path: "assets/music/LilimVW.mp3",
@@ -74,12 +80,6 @@ const app = {
       singer: "Maverick City Music & UPPERROOM",
       path: "assets/music/IThankGod(featMaverickCityMusic&UPPERROOM)TRIBL.mp3",
       image: "assets/img/MaverickCityMusic.jpg",
-    },
-	{
-      name: "LILIM",
-      singer: "Ryssi",
-      path: "assets/music/Lilim.mp3",
-      image: "assets/img/lilim.jpg",
     },
     {
       name: "OCEANS (WHERE FEET MAY FAIL)",
@@ -93,11 +93,17 @@ const app = {
       path: "assets/music/Praise-ElevationWorship.mp3",
       image: "assets/img/elevationworship.jpg",
     },
-	    {
+	{
       name: "PUPURIHIN KA SA AWIT",
       singer: "His Life City Church",
       path: "assets/music/Pupurihin_Ka_Sa_Awit _ His_Life_City_Church.mp3",
       image: "assets/img/Pupurihin_Ka_Sa_Awit _ His_Life_City_Church.jpg",
+    },
+	{
+      name: "RISEN",
+      singer: "Saddleback Worship",
+      path: "assets/music/Risen-EasterAtSaddleback(2021)",
+      image: "assets/img/SaddlebackWorship.jpg",
     },
 		{
       name: "SAFE",
